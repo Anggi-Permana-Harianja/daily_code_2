@@ -1,5 +1,5 @@
 # daily_code2
-daily coding problem day 2
+daily coding problem day 2 (dailycodingproblem.com)
 
 Good morning! Here's your coding interview problem for today.
 
